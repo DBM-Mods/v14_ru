@@ -5,7 +5,7 @@
 <p align="center">О <a href="https://discord.gg/HBc9u9tktd">DBM MODS {Multi-Language}</a> это сообщество с открытым исходным кодом, предназначенное для изменения, расширения и улучшения <a href="https://store.steampowered.com/app/682130/Discord_Bot_Maker">Discord Bot Maker</a>, мы также стремимся объединить сообщество всех стран.</p>
 <br>
 <p align="center">
-  <big><big><a href="https://github.com/DBM-Mods/v14_pt/archive/refs/heads/main.zip">Скачать моды</a></big></big>
+  <big><big><a href="https://github.com/DBM-Mods/v14_ru/archive/refs/heads/main.zip">Скачать моды</a></big></big>
 </p>
 
 # Установка модов
